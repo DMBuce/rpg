@@ -268,75 +268,6 @@ you can get sleep for 6 hours to heal all Grit and one stat.
 
 // Exotic Goods: 100-1000gp
 
-= Overland Travel & Exploration
-
-A party has a **travel budget** of 8 leagues each day.
-Each hex is 1 league (3 miles) across as the crow flies,
-but the party typically does not fly,
-so the distance they must travel in each hex is longer
-due to how bumpy and squiggly the path is,
-which in turn is determined by the terrain.
-
-Thus, the **movement cost** to enter a hex depends on the type of hex.
-
-* **Easy Terrain (1 league)**: Plains, fields, steppe
-* **Normal Terrain (2 leagues)**: Forest, hills, dunes
-* **Difficult Terrain (3 leagues)**: Mountains, bogs, jungle; Disadvantage on WIL rolls made to navigate
-
-Different conditions and modes of travel can affect
-the party's daily travel budget,
-a hex's movement cost,
-or the party members.
-
-* **Good roads**: +1 travel budget
-* **Donkey mounts**: +1 travel budget
-* **Horse mounts**: +2 travel budget
-* **Flying mounts**: All terrain is Easy
-* **Snow, extreme heat**: +1 movement cost
-* **Heavy rain, thick fog**: Disadvantage on WIL rolls made to navigate or search
-* **Travel cautiously**: -2 to travel budget, Advantage on WIL rolls made to navigate or search
-* **Travel quickly**: +1 to travel budget, take 1 damage at day's end
-* **Travel day and night**: +2 travel budget, Disadvantage on WIL rolls made to navigate, take 1 damage at day's end
-
-Any leagues in the travel budget that can't be used to enter the next hex
-carry over to the next day's travel budget.
-Each party member consumes 1 ration and 1 water each day.
-
-A WIL roll is often needed to navigate through a hex.
-No roll is necessary if the party has a map or guide, recognizes a landmark,
-or is following a road, trail, river, or coastline to the next hex.
-An unsuccessful roll results in a random encounter and/or getting lost.
-A lost party can move to an adjacent hex
-in the hopes of finding a recognizable landmark or someone to guide them,
-or they can search the hex they're in to get their bearings again.
-
-//TODO: merge paragraphs above and below
-
-//TODO: replace "random encounter or lost" w/ random encounter table that
-//      includes getting lost? replace WIL rolls too?
-
-//d12 roll: 1-9 = environmental feature (consult d100 table) 10 = abnormal hazard (consult d8 table), 11 = hostile encounter (d100 table) and 12 is hostile encounter during an abnormal hazard (consult both).
-
-To search, the party pays the movement cost of the hex they're in
-and makes a WIL roll.
-An unsuccessful roll results in a random encounter and/or getting lost.
-They do one of the following if successful:
-
-* Get their bearings again
-* Reveal all landmarks and a hidden feature if one exists
-* Forage -- each party member gains 1 ration or water
-
-The terrain of each adjacent hex is visible under normal conditions.
-Climbing a tall landmark reveals large landmarks in adjacent hexes
-and increases the range of visible terrain by 1 hex in all directions.
-
-When camping for the night in wilderness,
-a WIL roll is often needed to keep watch.
-The roll has Disadvantage if all party members are sleeping.
-An unsuccessful roll results in a random encounter.
-
-//== Wilderness Exploration
-
 = GMing
 
 == Managing Difficulty
@@ -752,7 +683,104 @@ gets a chance to participate in each encounter.
 //and sleep in a safe place for 6 hours
 //to heal all health.
 
+== GMing: Tracking Movement
 
+The GM can choose to track movement over long distances on a hex map.
+Each hex on the map is 1 league (3 miles) across from edge to edge.
+It typically takes 1 hour to travel 1 league.
+
+=== Exploration
+
+The party has a **travel budget** of 8 leagues each day.
+Although each hex is 1 league across as the crow flies,
+the party typically does not fly,
+so the distance they must travel in each hex is longer
+due to how bumpy and squiggly the path is,
+which in turn is determined by the terrain.
+
+Thus, the **movement cost** to enter a hex depends on the type of hex.
+
+* **Easy Terrain (1 league)**: Plains, fields, steppe
+* **Normal Terrain (2 leagues)**: Forest, hills, dunes
+* **Difficult Terrain (3 leagues)**: Mountains, bogs, jungle
+
+The terrain of each adjacent hex is visible under normal conditions.
+Climbing to a high elevation
+increases the range of visible terrain by 1 hex in all directions,
+and may reveal prominent landmarks in adjacent hexes.
+
+Different conditions and modes of travel can affect
+the party's daily travel budget,
+a hex's movement cost,
+or the party members.
+The GM adjudicates this on a case-by-case basis,
+but examples for some common cases are summarized below.
+
+* **Good roads**: +1 travel budget
+* **Donkey mounts**: +1 travel budget
+* **Horse mounts**: +2 travel budget
+* **Flying mounts**: All terrain is Easy
+* **Snow, extreme heat**: +1 movement cost
+* **Heavy rain, thick fog**: Disadvantage on WIL rolls made to travel or search
+* **Travel cautiously**: -2 to travel budget, Advantage on WIL rolls made to travel or search
+* **Travel quickly**: +1 to travel budget, take 1 damage at day's end
+* **Travel day and night**: +2 travel budget, Disadvantage on WIL rolls made to navigate, take 1 damage at day's end
+
+Any leagues in the travel budget that can't be used to enter the next hex
+carry over to the next day's travel budget.
+Each party member consumes 1 ration and 1 water at the end of each day.
+A party member who doesn't takes 1 damage.
+
+The GM uses their best judgement to adjudicate the actions the party take.
+However, many common actions can be boiled down to the party either
+watching and waiting, searching the hex they're in, traveling to an adjacent hex,
+or a combination of those actions.
+To do this, the party spends time waiting, searching, or travelling
+by paying the relevant movement cost of the relevant hexes,
+then they make a WIL roll.
+If the roll is unsuccessful, roll a d6:
+
+* 1: The party becomes lost unless they have a map or guide, recognize a landmark,
+  or are following a road, trail, river, or coastline to the next hex
+* 2-5: Environmental feature
+* 6: Random encounter
+
+If the roll is successful, the party does what they set out to do.
+An exploring party finds a new feature in the current hex if one exists.
+A party foraging for food or water finds it.
+And so on.
+
+When a party exits a hex for the first time after becoming lost,
+they exit through the edge to the left or right of the edge they intended.
+Alternatively if the GM maintains a shared hex map that the players can see,
+their access to it can be removed until they find their way again.
+
+//d12 roll: 1-9 = environmental feature (consult d100 table)
+//          10 = abnormal hazard (consult d8 table),
+//          11 = hostile encounter (d100 table)
+//          and 12 is hostile encounter during an abnormal hazard (consult both).
+
+//hex generator needs:
+//(use maze rats)
+//* environmental feature
+//* prominent feature
+//* additional features
+//* lairs, dungeons
+//* regional wild encounter tables
+//* 5: Lair monster?
+//* 6: Hostile encounter + hazard
+//* 7: Environmental hazard
+//* 8+: Hostile encounter
+
+// new features:
+// prominent landmark, environmental feature
+
+=== Overland Travel
+
+The exploration rules above can be shortcut
+when used for travel over long distances.
+In that case,
+simply have the party roll WIL for each day of travel and resolve as normal.
 
 //== How to Play
 //
