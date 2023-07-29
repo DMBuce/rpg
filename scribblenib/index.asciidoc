@@ -687,7 +687,7 @@ gets a chance to participate in each encounter.
 
 The GM can choose to track movement over long distances on a hex map.
 Each hex on the map is 1 league (3 miles) across from edge to edge.
-It typically takes 1 hour to travel 1 league.
+It typically takes 1 hour to travel 1 league on flat terrain.
 
 === Exploration
 
@@ -738,7 +738,7 @@ or a combination of those actions.
 To do this, the party spends time waiting, searching, or travelling
 by paying the relevant movement cost of the relevant hexes,
 then they make a WIL roll.
-If the roll is unsuccessful, roll a d6:
+If the roll is unsuccessful, the GM rolls a d6:
 
 * 1: The party becomes lost unless they have a map or guide, recognize a landmark,
   or are following a road, trail, river, or coastline to the next hex
@@ -750,7 +750,7 @@ An exploring party finds a new feature in the current hex if one exists.
 A party foraging for food or water finds it.
 And so on.
 
-When a party exits a hex for the first time after becoming lost,
+When the party exits a hex for the first time after becoming lost,
 they exit through the edge to the left or right of the edge they intended.
 Alternatively if the GM maintains a shared hex map that the players can see,
 their access to it can be removed until they find their way again.
