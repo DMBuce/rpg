@@ -632,7 +632,7 @@ in some common fantasy organizations.
 
 [cols="1,1"]
 |===
-| Noble Ranks           | Rules a...
+| Nobility              | Rules a...
 
 | King, Queen           | Kingdom
 | Duke, Duchess         | Duchy
@@ -679,15 +679,15 @@ in some common fantasy organizations.
 
 [cols="1"]
 |===
-| Church
+| City Watch
 
-| Supreme Patriarch, Grand Matriarch
-| Cardinal
-| Archbishop
-| Bishop
-| Pastor, Chaplain
-| Deacon
-| Acolyte
+| Commissioner, Sheriff
+| Deputy
+| Captain
+| Inspector
+| Detective
+| Sergeant
+| Constable
 |===
 
 [cols="1"]
@@ -703,15 +703,15 @@ in some common fantasy organizations.
 
 [cols="1"]
 |===
-| City Watch
+| Church
 
-| Commissioner, Sheriff
-| Deputy
-| Captain
-| Inspector
-| Detective
-| Sergeant
-| Constable
+| Supreme Patriarch, Grand Matriarch
+| Cardinal
+| Archbishop
+| Bishop
+| Pastor, Chaplain
+| Deacon
+| Acolyte
 |===
 
 [cols="1"]
