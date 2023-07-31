@@ -633,12 +633,13 @@ in some common fantasy organizations.
 [cols="1,1"]
 |===
 | Noble Ranks           | Rules a...
+
 | King, Queen           | Kingdom
 | Duke, Duchess         | Duchy
 | Earl, Countess, Pearl | Earldom
 | Count, Countess       | County
 | Baron, Baroness       | Barony
-1| Royal Military
+1| **Royal Military**
 1| Knight, Man-at-arms
 1| Footman, Bowman
 |===
@@ -646,6 +647,7 @@ in some common fantasy organizations.
 [cols="1,1"]
 |===
 | Imperial Military  | Commands a...
+
 | Emperor, General | Army (all brigades)
 | Brigadier        | Brigade (2-6 battalions, 1k-5k soldiers)
 | Colonel          | Battalion (2-6 companies, 200-1000 soldiers)
@@ -658,6 +660,7 @@ in some common fantasy organizations.
 [cols="1,1"]
 |===
 | Navy           | Commands a...
+
 | Admiral        | Fleet of 10+ ships
 | Commodore      | Squadron of 3-10 ships
 | Captain        | Ship
@@ -677,6 +680,7 @@ in some common fantasy organizations.
 [cols="1"]
 |===
 | Church
+
 | Supreme Patriarch, Grand Matriarch
 | Cardinal
 | Archbishop
@@ -689,6 +693,7 @@ in some common fantasy organizations.
 [cols="1"]
 |===
 | Court
+
 | Grand Arbiter, Supreme Justice
 | Arbiter
 | Magistrate
@@ -699,6 +704,7 @@ in some common fantasy organizations.
 [cols="1"]
 |===
 | City Watch
+
 | Commissioner, Sheriff
 | Deputy
 | Captain
@@ -711,6 +717,7 @@ in some common fantasy organizations.
 [cols="1"]
 |===
 | Cult
+
 | High Priest, High Priestess
 | Chosen
 | Priest, Priestess
