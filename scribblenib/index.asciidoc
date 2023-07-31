@@ -639,9 +639,9 @@ in some common fantasy organizations.
 | Earl, Countess, Pearl | Earldom
 | Count, Countess       | County
 | Baron, Baroness       | Barony
-1| **Royal Military**
-1| Knight, Man-at-arms
-1| Footman, Bowman
+2+| **Royal Military**
+2+| Knight, Man-at-arms
+2+| Footman, Bowman
 |===
 
 [cols="1,1"]
