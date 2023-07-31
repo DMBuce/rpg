@@ -268,6 +268,8 @@ you can get sleep for 6 hours to heal all Grit and one stat.
 
 // Exotic Goods: 100-1000gp
 
+//**Hirelings:**
+
 = GMing
 
 == Managing Difficulty
@@ -781,6 +783,80 @@ The exploration rules above can be shortcut
 when used for travel over long distances.
 In that case,
 simply have the party roll WIL for each day of travel and resolve as normal.
+
+== GMing: NPC Rules
+
+The following social rules offer a way to guide GMs' roleplaying
+and track NPCs' relationship with the party.
+
+=== Tempers and Bonds
+
+Each NPC has a temper and either a bond with the party as a whole
+or one bond with each party member.
+
+Tempers and bonds are summarized below.
+NPCs usually start out as a Hostile, Neutral, or Friendly Stranger.
+
+[cols="1,1,1"]
+|===
+| Temper         | Bond         | Example Behavior
+| Plotting       | Rival        | Seeks out and harms player
+| Violent/Scared | Enemy        | Attacks or flees player
+| Hostile        | Opponent     | Nonviolently thwarts or decieves player
+| Neutral        | Stranger     | No strong feelings towards player
+| Friendly       | Acquaintance | Helps player when not inconvenienced
+| Helpful        | Friend       | Helps player
+| Loyal          | Companion    | Seeks out and helps player
+|===
+
+An NPC's temper represents its disposition towards the player during an encounter.
+It can change often throughout the course of a conversation.
+
+An NPC's bond is its relationship with the player.
+It can change a lot during the player's first encounter with an NPC,
+but the more encounters they have, the more difficult it is to change.
+
+The GM calls for a WIL roll as a player makes their first impression on the NPC,
+and additional rolls as the encounter progresses.
+Rolls can change the NPC's temper, bond, or both.
+
+=== Nerves and Chords
+
+NPCs also have nerves and chords.
+A nerve is something the NPC hates and a chord is something they love.
+A player who hits a nerve can make an NPC standoffish.
+On the other hand, striking a chord can make an NPC more friendly or pliant.
+
+In addition to affecting how a GM roleplays an NPC,
+rolls to influence an NPC's temper or bond
+have advantage when a player strikes a chord
+and disadvantage when a player hits a nerve.
+
+=== Morale
+
+Morale checks are a quick way for a GM to determine an NPC's behavior in combat.
+To check an NPC's morale, the GM calls for a WIL roll from one of the players.
+When checking enemy morale, success means the enemy avoids combat.
+They may defend, flee, surrender, parley, etc.
+When checking the morale of an ally to the party,
+an unsuccessful roll means the ally avoids combat.
+
+NPCs check morale under the following conditions:
+
+* The first time an NPC takes grit damage during an encounter
+* The first time an NPC takes ability damage during an encounter
+* The first time a character dies in an encounter,
+  one morale check is made for the remaining NPCs
+* When half of an NPC's group are dead or incapacitated
+* When a retainer is ordered into danger while the employer remains safe
+* When one group evades combat,
+  the other group checks morale every minute to see if they continue to give chase
+
+Morale checks have advantage or disadvantage
+if one side of an encounter is using magic while the other side has no magic,
+if one side has suffered no losses and killed a member of the other side,
+or if the NPCs being checked are all Friends, Companions, Enemies, or Rivals
+with the party.
 
 //== How to Play
 //
