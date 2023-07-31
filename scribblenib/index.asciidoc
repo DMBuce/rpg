@@ -514,95 +514,99 @@ The process for designing one is largely the same as for a spell.
 //focus: holy symbol
 //need separate good/holy/nature tables?
 
-== Character Creation: Additional Training
+== Character Creation: Mentors
 
-If the setting and campaign support it,
-the GM may wish to make the following training available
-at character creation
-or through mentors that the PCs meet during their adventures.
+Mentors are a way for characters to gain extra training or abilities.
+GMs can make mentors available at character creation
+or as the players explore the world.
+
+=== Custom Training
+
+Mentors can make custom training available to the players.
+Below are some examples.
 
 * **Academics:** History, lore, esoteric knowledge
+//* **Performance:** Music, singing, dancing, oration
 * **Seafaring:** Sailing, swimming, ocean navigation
 * **Witchcraft:** Medicine, herbalism, alchemy
 
-GMs can, of course,
-work with the players to create training for a specific character concept.
-A retired chef adventurer might have the following training, for example.
+=== Custom Abilities
 
-* **Cooking:** Baking, sauteing, grilling
+At the GM's discretion, some mentors might be able to teach PCs new abilities.
+No list of abilities is provided.
+The gamemaster should discuss with the players to see what abilities are
+desired and strive to make them available throughout the campagin.
 
-== Character Creation: Custom Abilities
-
-The default assumption is that characters are ordinary humans
-whose exceptional abilities come from magic items found in loot.
-But for playgroups that want characters with inherent exceptional abilities,
-PCs may gain a Starting ability at 1st level,
-an Improved ability at 4th level,
-and an Ultimate ability at 7th level.
-
-The gamemaster discusses with the players to determine their abilities.
-Here is an example of how such a discussion might go:
-
-[quote]
-----
-GM: Okay, let's figure out an ability for your character. What's the
-one special thing that they're good at?
-
-Player: I want my character to be able to befriend any animal.
-
-GM: Okay, that sounds pretty powerful. I think you would steamroll the
-dungeon I have planned if you just strolled in with a bunch of panther and
-bear friends. Maybe that could be your ultimate ability. Your starting
-ability could be that you can befriend any cat-sized or smaller animal.
-How does that sound?
-
-Player: Sure, that's great!
-
-GM: Okay, cool. And your improved ability can be that you instantly
-befriend animals as large as a deer. Does that work?
-
-Player: Yeah!
-
-GM: Alright, and how does befriending an animal work exactly? What do
-you do to befriend them?
-
-Player: I was thinking I would just talk to them?
-
-GM: Oh neat, yeah that works. So your starting ability is that you can talk to
-animals and befriend any cat-sized or smaller animal that you talk to. And
-later on you'll be able to befriend deer-sized animals, and later still you
-can befriend any animal. Sounds good!
-----
-
-Some example abilities are below.
-
-**Animal Friendship**:
-You can talk to animals.
-You befriend cat-sized or smaller animals when you talk to them. +
-**Improved Animal Friendship**:
-You befriend deer-sized or smaller animals when you talk to them. +
-**Ultimate Animal Friendship**:
-You befriend any animal you talk to.
-
-**Surprise Attack**:
-You add 1d6 to attack rolls made against surprised enemies. +
-**Improved Surprise Attack**:
-You deal +1 damage to surprised enemies. +
-**Ultimate Surprise Attack**:
-You add another 1d6 to attack rolls and another +1 damage against surprised
-enemies.
-
-**Critical Strike**:
-You deal massive damage on a critical strike.
-After rolling a natural 20 on an attack roll,
-you roll another attack roll and deal damage if it hits.
-If the attack roll is a critical strike, the process repeats. +
-**Improved Critical Strike**:
-When you have advantage on an attack roll,
-a natural 19 triggers a critical strike in addition to a natural 20. +
-**Ultimate Critical Strike**:
-A natural 19 on an attack roll is a critical strike
-regardless of whether or not you have advantage.
+//The default assumption is that characters are ordinary humans
+//whose exceptional abilities come from magic items found in loot.
+//But for playgroups that want characters with inherent exceptional abilities,
+//PCs may gain a Starting ability at 1st level,
+//an Improved ability at 4th level,
+//and an Ultimate ability at 7th level.
+//
+//The gamemaster discusses with the players to determine their abilities.
+//Here is an example of how such a discussion might go:
+//
+//[quote]
+//----
+//GM: Okay, let's figure out an ability for your character. What's the
+//one special thing that they're good at?
+//
+//Player: I want my character to be able to befriend any animal.
+//
+//GM: Okay, that sounds pretty powerful. I think you would steamroll the
+//dungeon I have planned if you just strolled in with a bunch of panther and
+//bear friends. Maybe that could be your ultimate ability. Your starting
+//ability could be that you can befriend any cat-sized or smaller animal.
+//How does that sound?
+//
+//Player: Sure, that's great!
+//
+//GM: Okay, cool. And your improved ability can be that you instantly
+//befriend animals as large as a deer. Does that work?
+//
+//Player: Yeah!
+//
+//GM: Alright, and how does befriending an animal work exactly? What do
+//you do to befriend them?
+//
+//Player: I was thinking I would just talk to them?
+//
+//GM: Oh neat, yeah that works. So your starting ability is that you can talk to
+//animals and befriend any cat-sized or smaller animal that you talk to. And
+//later on you'll be able to befriend deer-sized animals, and later still you
+//can befriend any animal. Sounds good!
+//----
+//
+//Some example abilities are below.
+//
+//**Animal Friendship**:
+//You can talk to animals.
+//You befriend cat-sized or smaller animals when you talk to them. +
+//**Improved Animal Friendship**:
+//You befriend deer-sized or smaller animals when you talk to them. +
+//**Ultimate Animal Friendship**:
+//You befriend any animal you talk to.
+//
+//**Surprise Attack**:
+//You add 1d6 to attack rolls made against surprised enemies. +
+//**Improved Surprise Attack**:
+//You deal +1 damage to surprised enemies. +
+//**Ultimate Surprise Attack**:
+//You add another 1d6 to attack rolls and another +1 damage against surprised
+//enemies.
+//
+//**Critical Strike**:
+//You deal massive damage on a critical strike.
+//After rolling a natural 20 on an attack roll,
+//you roll another attack roll and deal damage if it hits.
+//If the attack roll is a critical strike, the process repeats. +
+//**Improved Critical Strike**:
+//When you have advantage on an attack roll,
+//a natural 19 triggers a critical strike in addition to a natural 20. +
+//**Ultimate Critical Strike**:
+//A natural 19 on an attack roll is a critical strike
+//regardless of whether or not you have advantage.
 
 //=== Custom Ability Variants: Magic Systems
 
@@ -619,6 +623,100 @@ regardless of whether or not you have advantage.
 //=== Custom Ability Variants: Milestone Abilities
 
 //=== Custom Ability Variant: Legacies
+
+=== Ranks
+
+Some mentors are part of a larger organization in the world.
+The following tables can be used as a reference to choose a mentor's rank
+in some common fantasy organizations.
+
+[cols="1,1"]
+|===
+| Noble Ranks           | Rules a...
+| King, Queen           | Kingdom
+| Duke, Duchess         | Duchy
+| Earl, Countess, Pearl | Earldom
+| Count, Countess       | County
+| Baron, Baroness       | Barony
+1| Royal Military
+1| Knight, Man-at-arms
+1| Footman, Bowman
+|===
+
+[cols="1,1"]
+|===
+| Imperial Military  | Commands a...
+| Emperor, General | Army (all brigades)
+| Brigadier        | Brigade (2-6 battalions, 1k-5k soldiers)
+| Colonel          | Battalion (2-6 companies, 200-1000 soldiers)
+| Captain          | Company (2-6 platoons, 50-200 soldiers)
+| Lieutenant       | Platoon (2-6 squads, 20-50 soldiers)
+| Sergeant         | Squad (5-10 cadets)
+| Cadet            | --
+|===
+
+[cols="1,1"]
+|===
+| Navy           | Commands a...
+| Admiral        | Fleet of 10+ ships
+| Commodore      | Squadron of 3-10 ships
+| Captain        | Ship
+| Commander      | Small ship
+| Lieutenant     | Second in command
+| Ensign, Seaman | --
+|===
+
+//[cols="1"]
+//|===
+//| Pirate
+//| Captain
+//| First Mate
+//| Crew
+//|===
+
+[cols="1"]
+|===
+| Church
+| Supreme Patriarch, Grand Matriarch
+| Cardinal
+| Archbishop
+| Bishop
+| Pastor, Chaplain
+| Deacon
+| Acolyte
+|===
+
+[cols="1"]
+|===
+| Court
+| Grand Arbiter, Supreme Justice
+| Arbiter
+| Magistrate
+| Judge
+| Adjudicator
+|===
+
+[cols="1"]
+|===
+| City Watch
+| Commissioner, Sheriff
+| Deputy
+| Captain
+| Inspector
+| Detective
+| Sergeant
+| Constable
+|===
+
+[cols="1"]
+|===
+| Cult
+| High Priest, High Priestess
+| Chosen
+| Priest, Priestess
+| Disciple
+| Initiate
+|===
 
 //== Endgame Play: Additional Levels
 
